@@ -1,0 +1,4 @@
+rm -rf RMC
+git clone https://github.com/Shyam-736/RMC
+cd RMC
+python RMC.py
